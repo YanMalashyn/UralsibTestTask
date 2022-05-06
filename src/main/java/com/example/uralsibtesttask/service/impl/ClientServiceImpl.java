@@ -1,6 +1,6 @@
 package com.example.uralsibtesttask.service.impl;
 
-import com.example.uralsibtesttask.Exceptions.ClientException;
+import com.example.uralsibtesttask.Exception.ClientException;
 import com.example.uralsibtesttask.model.converters.ClientMapper;
 import com.example.uralsibtesttask.model.dto.ClientDto;
 import com.example.uralsibtesttask.model.entity.Client;

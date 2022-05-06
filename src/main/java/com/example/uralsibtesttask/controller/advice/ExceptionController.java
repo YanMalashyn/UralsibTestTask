@@ -1,6 +1,6 @@
-package com.example.uralsibtesttask.controllers.advice;
+package com.example.uralsibtesttask.controller.advice;
 
-import com.example.uralsibtesttask.Exceptions.AbstractException;
+import com.example.uralsibtesttask.Exception.AbstractException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

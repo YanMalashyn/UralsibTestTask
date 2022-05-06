@@ -1,4 +1,4 @@
-package com.example.uralsibtesttask.Exceptions;
+package com.example.uralsibtesttask.Exception;
 
 public class ClientException extends AbstractException {
 

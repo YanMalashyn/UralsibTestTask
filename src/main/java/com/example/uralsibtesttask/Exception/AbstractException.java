@@ -1,4 +1,4 @@
-package com.example.uralsibtesttask.Exceptions;
+package com.example.uralsibtesttask.Exception;
 
 public abstract class AbstractException extends RuntimeException {
 

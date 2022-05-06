@@ -1,4 +1,4 @@
-package com.example.uralsibtesttask.controllers.rest;
+package com.example.uralsibtesttask.controller.rest;
 
 import com.example.uralsibtesttask.service.abstracts.AccountService;
 import lombok.RequiredArgsConstructor;

@@ -1,7 +1,7 @@
 package com.example.uralsibtesttask.service.impl;
 
-import com.example.uralsibtesttask.Exceptions.AccountException;
-import com.example.uralsibtesttask.Exceptions.BankOperationException;
+import com.example.uralsibtesttask.Exception.AccountException;
+import com.example.uralsibtesttask.Exception.BankOperationException;
 import com.example.uralsibtesttask.model.converters.AccountMapper;
 import com.example.uralsibtesttask.model.dto.AccountDto;
 import com.example.uralsibtesttask.model.entity.Account;
