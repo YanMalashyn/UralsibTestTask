@@ -1,0 +1,10 @@
+client:
+  - id: 100
+    first_name: "Yan"
+    second_name: "Malashyn"
+  - id: 101
+    first_name: "Yan2"
+    second_name: "Malashyn2"
+  - id: 102
+    first_name: "Yan3"
+    second_name: "Malashyn3"

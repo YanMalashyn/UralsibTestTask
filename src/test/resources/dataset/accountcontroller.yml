@@ -1,0 +1,19 @@
+client:
+  - id: 100
+    first_name: "Yan"
+    second_name: "Malashyn"
+
+account:
+  - id: 100
+    balance: "100.00"
+    client_id: 100
+    currency: "RU"
+  - id: 101
+    balance: "101.00"
+    client_id: 100
+    currency: "RU"
+  - id: 102
+    balance: "102.00"
+    client_id: 100
+    currency: "RU"
+
